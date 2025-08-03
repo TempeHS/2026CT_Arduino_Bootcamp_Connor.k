@@ -1,5 +1,5 @@
 /*
-  Author: 
+  Author: Connor Kian
   
   Learning Intention:
   The students will understand the difference between the inbuilt setup and loop methods,
